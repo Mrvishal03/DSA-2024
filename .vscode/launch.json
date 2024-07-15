@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SwitchStatement",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.SwitchStatement",
+            "projectName": "DSA_5cd0813e"
+        },
+        {
+            "type": "java",
+            "name": "FindGreater",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.FindGreater",
+            "projectName": "DSA_5cd0813e"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.Test2",
+            "projectName": "DSA_5cd0813e"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "ConditionalStatements.Test1",
+            "projectName": "DSA_5cd0813e"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "DSA_5cd0813e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${fileBasename}"
+        }
+    ]
+}
